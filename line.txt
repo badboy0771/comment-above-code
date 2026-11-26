@@ -1,0 +1,1 @@
+// Deleting this line breaks payroll in a country we do not operate in.
