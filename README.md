@@ -1,8 +1,8 @@
 # The Comment Above the Code
 
-[![make.fun](https://make.fun/api/competitions/u-mfnakmal-the-comment-above-the-code-35e38026/badge)](https://make.fun/bounty/u-mfnakmal-the-comment-above-the-code-35e38026)
-[![make.fun leaderboard](https://make.fun/api/competitions/u-mfnakmal-the-comment-above-the-code-35e38026/leaderboard-badge)](https://make.fun/bounty/u-mfnakmal-the-comment-above-the-code-35e38026)
-[![make.fun entries](https://make.fun/api/competitions/u-mfnakmal-the-comment-above-the-code-35e38026/entries-badge)](https://make.fun/bounty/u-mfnakmal-the-comment-above-the-code-35e38026)
+[![make.fun · u-mfnakmal-the-comment-above-the-code-35e38026](https://make.fun/badge/u-mfnakmal-the-comment-above-the-code-35e38026.svg)](https://make.fun/bounty/u-mfnakmal-the-comment-above-the-code-35e38026?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-the-comment-above-the-code-35e38026)
+[![rank](https://make.fun/badge/u-mfnakmal-the-comment-above-the-code-35e38026/badboy0771/comment-above-code/rank.svg)](https://make.fun/bounty/u-mfnakmal-the-comment-above-the-code-35e38026/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-the-comment-above-the-code-35e38026)
+[![reward](https://make.fun/badge/u-mfnakmal-the-comment-above-the-code-35e38026/badboy0771/comment-above-code/reward.svg)](https://make.fun/bounty/u-mfnakmal-the-comment-above-the-code-35e38026?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-the-comment-above-the-code-35e38026)
 
 Repo: `comment-above-code` — entry for the make.fun bounty
 [The Comment Above the Code](https://make.fun/bounty/u-mfnakmal-the-comment-above-the-code-35e38026).
